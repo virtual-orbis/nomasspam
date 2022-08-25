@@ -1,1 +1,1 @@
-# nomasspam es una lista de dominios que envían SPAM (la mayoría desde el Perú) con frecuencia por lo que están bloqueados razón por la que están bloqueados en mi servidor de correo EXIM
+# nomasspam es una lista de dominios (la mayoría desde el Perú) que envían SPAM con frecuencia por lo que están bloqueados razón por la que están bloqueados en mi servidor de correo EXIM
